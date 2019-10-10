@@ -19,6 +19,7 @@ header:hover{
 
 h1{
 	float: left;
+	padding-left: 800px;
 }
 
 h1:hover{
@@ -52,6 +53,12 @@ ul button.active a{
 	color: #3afd05;
 }
 
+.logo img{
+	float: left;
+	width: 70px;
+	height: 50px;
+	
+}
 
 .row {
   display: flex;
@@ -97,7 +104,7 @@ ul button.active a{
 }
 
 .footer .footer-content{
-border: 1px solid red;
+
 height: 350px;
 }
 

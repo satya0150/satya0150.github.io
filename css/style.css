@@ -57,6 +57,27 @@ ul button.active a{
 	font-size:70px;
 }
 
+.satyam{
+	float: center;
+	padding-top: 600px;
+	padding-left: 400px;
+}
+
+.satyam h1{
+color: white;
+font-size: 30px;
+}
+
+img {
+	float: left;
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	
+}
+
+
+
 /* FOOTER */
 .footer{
 	background: #303036;
@@ -66,7 +87,7 @@ ul button.active a{
 }
 
 .footer .footer-content{
-border: 1px solid red;
+
 height: 350px;
 }
 
