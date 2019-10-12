@@ -59,8 +59,8 @@ ul button.active a{
 
 .satyam{
 	float: center;
-	padding-top: 600px;
-	padding-left: 400px;
+	padding-top: 30%;
+	padding-left: 30%;
 }
 
 .satyam h1{
@@ -87,8 +87,9 @@ img {
 }
 
 .footer .footer-content{
-
+display: inline-block;
 height: 350px;
+
 }
 
 .footer .footer-bottom{
